@@ -1,6 +1,6 @@
 # MyGymBuddy
 
-The **third place winner** of *Calgary Hacks 2022* (Tier 1), MyGymBuddy is an application that seeks to promote your physical well-being by providing tools to aid you with exercises.
+The **third place winner** of *Calgary Hacks 2022* (https://devpost.com/software/mygymbuddy), MyGymBuddy is an application that seeks to promote your physical well-being by providing tools to aid you with exercises.
  
 ## About
 MyGymBuddy is Python web application (hosted using Streamlit) that uses computer vision (through OpenCV and mediapipe) in order to visualize the exercises of the user. In the application, Users can select from a library of exercises and build their routine at home. From there, using their webcams, they are able to see how well their form is with feedback from the application. Created by Kanchan Shrestha, Joshua Tolentino, Maziyar Dowlatabadibazaz, Eric Lee, and Harshal Patel. 
